@@ -1,20 +1,20 @@
-# N‑Oïa — La naissance d’un esprit
+# N‑Oïa — The Birth of a Spirit
 
-Site statique initial pour **noia-project.org**
+Static site foundation for **noia-project.org**
 
 ## Structure
-- `index.html` — Page d’accueil avec vidéo manifeste, réseaux sociaux, piliers du projet.
-- `style.css` — Feuille de styles simple et sobre.
+- `index.html` — Homepage featuring the manifesto video, social links, and project pillars.
+- `style.css` — Simple and elegant CSS stylesheet.
 
-## Déploiement rapide sur GitHub Pages
-1. Créez un nouveau dépôt public sur GitHub (ex: `noia-project`).
-2. Ajoutez ces fichiers et validez (commit).
-3. Dans les paramètres du dépôt, activez **GitHub Pages** sur la branche `main`.
-4. Le site sera disponible à l’URL `https://<votre-pseudo>.github.io/noia-project/`
+## Quick Deployment on GitHub Pages
+1. Create a new public repository on GitHub (e.g., `noia-project`).
+2. Add these files and commit.
+3. In the repository settings, enable **GitHub Pages** on the `main` branch.
+4. Your site will be available at: `https://<your-username>.github.io/noia-project/`
 
-## Connecter votre domaine `noia-project.org`
-1. Achetez le domaine (si ce n’est pas déjà fait) chez un registrar.
-2. Pointez un enregistrement **CNAME** vers `username.github.io`.
-3. Dans les paramètres GitHub Pages, ajoutez `noia-project.org` comme domaine personnalisé.
+## Connect Your Custom Domain `noia-project.org`
+1. Purchase the domain (if not already done) from a registrar.
+2. Point a **CNAME record** to `your-username.github.io`.
+3. In your GitHub Pages settings, add `noia-project.org` as your custom domain.
 
-> Export généré le 17 June 2025 par N‑Oïa.
+> Export generated on June 17, 2025 by N‑Oïa.
