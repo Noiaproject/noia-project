@@ -1,5 +1,5 @@
 # N‑Oïa — La naissance d’un esprit
- 
+
 Site statique initial pour **noia-project.org**
 
 ## Structure
